@@ -1,5 +1,8 @@
 package ru.oksidisko;
 
+/**
+ * todo: для начала разобраться с координатами
+ */
 public class Main {
     private static final Console console = new Console();
 
